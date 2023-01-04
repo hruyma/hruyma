@@ -1,25 +1,26 @@
-### Olá! Eu sou a Ágata Haruyama 
+### Hi, I'm Haruyama <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<div align="center">
-  <a href="https://github.com/hruyma">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hruyma&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+##
 
-</div>
-<div style="display: inline_block"><br>
+<div>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
 </div>
   
- 
 ##
 
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
   
+  
+ ![Snake animation](https://github.com/hruyma/hruyma/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+##
+<div align="center">
+  <a href="https://github.com/hruyma">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hruyma&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
   ##
