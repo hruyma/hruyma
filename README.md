@@ -15,9 +15,15 @@
 </div>
   
  
+##
+
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+  
+</div>
+
   ##
  
 <div>
 <img align="center" alt"hruyam-cat" src="https://i.pinimg.com/originals/c3/13/8e/c3138e767390c36480a8ab6dc84507e0.gif">
 </div>
-
