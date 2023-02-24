@@ -1,4 +1,4 @@
-### Hi, I'm snr
+### Hi, I'm Snr
 ##
 
 <div>
