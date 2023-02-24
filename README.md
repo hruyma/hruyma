@@ -9,10 +9,6 @@
 
 ##
 
-![Snake animation](https://github.com/hruyma/hruyma/blob/output/github-contribution-grid-snake.svg)
-
-##
-
 <div align="left">
   <a href="https://github.com/hruyma">
   <img height="170em" src="https://github-readme-status.vercel.app/api?username=hruyma&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
